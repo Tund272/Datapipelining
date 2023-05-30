@@ -1,5 +1,5 @@
 EDA Netlist Writer report for DatapathPipelining
-Tue May 30 22:07:16 2023
+Tue May 30 23:21:18 2023
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -36,7 +36,7 @@ applicable agreement for further details.
 +-------------------------------------------------------------------+
 ; EDA Netlist Writer Summary                                        ;
 +---------------------------+---------------------------------------+
-; EDA Netlist Writer Status ; Successful - Tue May 30 22:07:16 2023 ;
+; EDA Netlist Writer Status ; Successful - Tue May 30 23:21:18 2023 ;
 ; Revision Name             ; DatapathPipelining                    ;
 ; Top-level Entity Name     ; DatapathPipelining                    ;
 ; Family                    ; Cyclone II                            ;
@@ -80,13 +80,13 @@ applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit EDA Netlist Writer
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Tue May 30 22:07:15 2023
+    Info: Processing started: Tue May 30 23:21:17 2023
 Info: Command: quartus_eda --functional=on --simulation=on --tool=modelsim_oem --format=verilog DatapathPipelining -c DatapathPipelining
 Info (119006): Selected device EP2C35F672C6 for design "DatapathPipelining"
 Info (204019): Generated file DatapathPipelining.vo in folder "C:/CE118/DPPipelining/simulation/modelsim/" for EDA simulation tool
 Info: Quartus II 64-Bit EDA Netlist Writer was successful. 0 errors, 0 warnings
     Info: Peak virtual memory: 4515 megabytes
-    Info: Processing ended: Tue May 30 22:07:16 2023
+    Info: Processing ended: Tue May 30 23:21:18 2023
     Info: Elapsed time: 00:00:01
     Info: Total CPU time (on all processors): 00:00:01
 
